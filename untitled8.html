@@ -1,0 +1,165 @@
+<!-- Instructions / Legend -->
+<div style="font-family: 'Segoe UI', sans-serif; background-color: #f0f4f8; padding: 24px 30px; border-radius: 12px; margin-bottom: 40px; border: 1px solid #d1dce5;">
+  <h1 style="margin: 0; font-size: 22px; font-weight: 600; color: #003366;">Your Feedback Report – COLREGs Assessment</h1>
+  <p style="margin-top: 12px; font-size: 16px; color: #333;">
+    This report provides detailed feedback on your recent COLREGs assessment based on <strong>Feedback Approach A/B</strong>.
+  </p>
+  <p style="font-size: 15px; color: #4a4a4a; line-height: 1.6;">
+    It highlights which answers were correct or incorrect to help strengthen your knowledge. The color-coding helps you reflect on your performance:
+  </p>
+  <p style="font-size: 15px; color: #4a4a4a; line-height: 1.6; margin: 0;">
+    <span style="display: inline-block; background-color:#d4edda; padding: 2px 10px; border-radius: 4px; margin-right: 8px; font-weight: 500;">Green</span>
+    = correct selection,
+    <span style="display: inline-block; background-color:#f8d7da; padding: 2px 10px; border-radius: 4px; font-weight: 500;">Red</span>
+    = incorrect selection.
+  </p>
+</div>
+
+<!-- Feedback Message Section -->
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto 20px auto; background-color: #fff9f2; border: 1px solid #f5d9b0; padding: 28px 32px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.06);">
+  <h2 style="margin-top: 0; color: #cc7000; font-size: 22px; font-weight: bold;">📘 Overall Feedback</h2>
+  ${e://Field/overall_feedback}
+</div>
+
+
+<!-- Feedback Assessment Button -->
+<div style="text-align: center; margin: 40px auto;">
+  <a href="${feedback_link}" target="_blank"
+     style="display: inline-block;
+            background-color: #004e92;
+            color: #ffffff;
+            font-size: 16px;
+            font-weight: 600;
+            padding: 14px 28px;
+            border-radius: 8px;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;">
+    ✨ Assess This Feedback
+  </a>
+  <p style="font-size: 13px; color: #555; margin-top: 12px;">
+    Your input helps us evaluate and improve the quality of our feedback.
+  </p>
+</div>
+
+
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 1: ${e://Field/Q1_text}</p>
+${e://Field/Q1_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q1_opt1_style};">A. ${e://Field/Q1_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q1_opt2_style};">B. ${e://Field/Q1_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q1_opt3_style};">C. ${e://Field/Q1_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q1_opt4_style};">D. ${e://Field/Q1_opt4}</li>
+</ul>
+${e://Field/Q1_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 2: ${e://Field/Q2_text}</p>
+${e://Field/Q2_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q2_opt1_style};">A. ${e://Field/Q2_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q2_opt2_style};">B. ${e://Field/Q2_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q2_opt3_style};">C. ${e://Field/Q2_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q2_opt4_style};">D. ${e://Field/Q2_opt4}</li>
+</ul>
+${e://Field/Q2_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 3: ${e://Field/Q3_text}</p>
+${e://Field/Q3_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q3_opt1_style};">A. ${e://Field/Q3_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q3_opt2_style};">B. ${e://Field/Q3_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q3_opt3_style};">C. ${e://Field/Q3_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q3_opt4_style};">D. ${e://Field/Q3_opt4}</li>
+</ul>
+${e://Field/Q3_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 4: ${e://Field/Q4_text}</p>
+${e://Field/Q4_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q4_opt1_style};">A. ${e://Field/Q4_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q4_opt2_style};">B. ${e://Field/Q4_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q4_opt3_style};">C. ${e://Field/Q4_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q4_opt4_style};">D. ${e://Field/Q4_opt4}</li>
+</ul>
+${e://Field/Q4_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 5: ${e://Field/Q5_text}</p>
+${e://Field/Q5_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q5_opt1_style};">A. ${e://Field/Q5_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q5_opt2_style};">B. ${e://Field/Q5_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q5_opt3_style};">C. ${e://Field/Q5_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q5_opt4_style};">D. ${e://Field/Q5_opt4}</li>
+</ul>
+${e://Field/Q5_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 6: ${e://Field/Q6_text}</p>
+${e://Field/Q6_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q6_opt1_style};">A. ${e://Field/Q6_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q6_opt2_style};">B. ${e://Field/Q6_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q6_opt3_style};">C. ${e://Field/Q6_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q6_opt4_style};">D. ${e://Field/Q6_opt4}</li>
+</ul>
+${e://Field/Q6_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 7: ${e://Field/Q7_text}</p>
+${e://Field/Q7_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q7_opt1_style};">A. ${e://Field/Q7_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q7_opt2_style};">B. ${e://Field/Q7_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q7_opt3_style};">C. ${e://Field/Q7_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q7_opt4_style};">D. ${e://Field/Q7_opt4}</li>
+</ul>
+${e://Field/Q7_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 8: ${e://Field/Q8_text}</p>
+${e://Field/Q8_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q8_opt1_style};">A. ${e://Field/Q8_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q8_opt2_style};">B. ${e://Field/Q8_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q8_opt3_style};">C. ${e://Field/Q8_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q8_opt4_style};">D. ${e://Field/Q8_opt4}</li>
+</ul>
+${e://Field/Q8_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 9: ${e://Field/Q9_text}</p>
+${e://Field/Q9_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q9_opt1_style};">A. ${e://Field/Q9_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q9_opt2_style};">B. ${e://Field/Q9_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q9_opt3_style};">C. ${e://Field/Q9_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q9_opt4_style};">D. ${e://Field/Q9_opt4}</li>
+</ul>
+${e://Field/Q9_feedback_message}</div>
+
+<div style="font-family: Arial, sans-serif; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 10px;">
+<p style="font-weight: bold; font-size: 16px; color: #2c3e50;">Question 10: ${e://Field/Q10_text}</p>
+${e://Field/Q10_feedback_icon}
+
+<ul style="list-style-type: none; padding-left: 0; font-size: 15px; margin-top: 15px;">
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q10_opt1_style};">A. ${e://Field/Q10_opt1}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q10_opt2_style};">B. ${e://Field/Q10_opt2}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q10_opt3_style};">C. ${e://Field/Q10_opt3}</li>
+	<li style="padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; background-color: ${e://Field/Q10_opt4_style};">D. ${e://Field/Q10_opt4}</li>
+</ul>
+${e://Field/Q10_feedback_message}</div>
