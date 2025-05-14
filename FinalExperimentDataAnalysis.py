@@ -186,3 +186,40 @@ plt.xlabel("Number of Responses")
 plt.ylabel("Feedback Type")
 plt.tight_layout()
 plt.show()
+#%%
+
+import pandas as pd
+import numpy as np
+
+# Define dimensions and feedback types
+dimensions = ["Sufficiency", "Usefulness", "Clarity", "Adaptiveness", "Motivational Impact"]
+feedback_types = ["Feedback A", "Feedback B", "Feedback C"]
+
+# Map Likert-scale responses to numeric values
+ordinal_mapping = {"Very Low": 1, "Low": 2, "Medium": 3, "High": 4, "Very High": 5}
+
+# Function to locate correct column
+def get_column(feedback_type, dimension):
+    for col in df.columns:
+        if feedback_type in col and dimension in col:
+            return col
+    return None
+
+# Prepare results
+mean_std_results = []
+
+for dimension in dimensions:
+    row = {"Dimension": dimension}
+    for fb_type in feedback_types:
+        col_name = get_column(fb_type, dimension)
+        if col_name:
+            values = df[col_name].dropna()
+            numeric_values = values.map(ordinal_mapping)
+            mean_val = numeric_values.mean()
+            std_val = numeric_values.std()
+            row[fb_type] = f"{mean_val:.2f} ± {std_val:.2f}"
+    mean_std_results.append(row)
+
+# Convert to DataFrame and display
+mean_std_df = pd.DataFrame(mean_std_results)
+print(mean_std_df.to_string(index=False))
