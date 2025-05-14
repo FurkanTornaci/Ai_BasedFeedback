@@ -3,7 +3,7 @@ import win32com.client as win32
 import re
 
 # === Step 1: Load CSV and clean columns ===
-file_path = "Clean.csv"
+file_path = "Clean_with_Feedback_Cleaned.csv"
 df = pd.read_csv(file_path, encoding='windows-1252')
 
 
@@ -105,6 +105,20 @@ all_options = {
     ]
 }
 
+
+traditional_explanations = {
+    'q1': 'A power-driven vessel is defined as any vessel being propelled by machinery that is actively engaged.',
+    'q2': 'A vessel is considered “restricted in her ability to maneuver” when her operations limit her ability to move according to standard navigation rules.',
+    'q3': 'In hierarchy of vessel priorities, a vessel restricted in her ability to maneuver has precedence over a fishing vessel.',
+    'q4': 'In a head-on situation, both power-driven vessels must alter course to starboard to avoid collision.',
+    'q5': 'Seeing both sidelights of a vessel directly ahead indicates a head-on approach.',
+    'q6': 'Rule 19 requires vessels to reduce speed to the minimum at which it can be kept on course during restricted visibility.',
+    'q7': 'Three red lights in a vertical line indicate a vessel engaged in underwater operations such as dredging.',
+    'q8': 'When radar shows a meeting situation, standard COLREGs apply—turn to starboard to avoid collision.',
+    'q9': 'Additional lights are allowed if they do not impair the visibility or character of the required navigation lights.',
+    'q10': 'A continuous fog whistle is an internationally recognized sound signal for distress.'
+}
+
 # === Step 5: Load HTML feedback template ===
 with open('untitled8.html', 'r', encoding='utf-8') as f:
     template_html = f.read()
@@ -119,16 +133,16 @@ for index, row in df.iterrows():
         continue
 
     # Retrieve participantId and feedbackType
-    participant_id = str(row.get('participantid', ''))
-    feedback_type = str(row.get('feedbacktype', ''))
+    participant_id = str(row.values[0])
+    feedback_type = str(row.get('feedbacktype', '999'))
     feedback_link = f"https://stratheng.eu.qualtrics.com/jfe/form/SV_3kocAh1wEfLTXxQ?participantId={participant_id}&feedbackType={feedback_type}"
 
     user_answers = {qid: row[qid] for qid in correct_answers}
-    feedback_raw = str(row['feedback']).strip().replace('\n', '<br><br>')
+    feedback_raw = str(row['feedbackgenerated']).strip().replace('\n', '<br><br>')
     overall_feedback = f"<p style='font-size: 15px; color: #333;'>{feedback_raw}</p>"
 
     fields = {
-        'overall_feedback': overall_feedback,
+        'overall_feedback_AI': overall_feedback,
         'feedback_link': feedback_link
     }
 

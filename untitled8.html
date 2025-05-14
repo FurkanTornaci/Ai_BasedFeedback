@@ -13,34 +13,39 @@
     <span style="display: inline-block; background-color:#f8d7da; padding: 2px 10px; border-radius: 4px; font-weight: 500;">Red</span>
     = incorrect selection.
   </p>
-</div>
-
-<!-- Feedback Message Section -->
-<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto 20px auto; background-color: #fff9f2; border: 1px solid #f5d9b0; padding: 28px 32px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.06);">
-  <h2 style="margin-top: 0; color: #cc7000; font-size: 22px; font-weight: bold;">📘 Overall Feedback</h2>
-  ${e://Field/overall_feedback}
-</div>
-
-
-<!-- Feedback Assessment Button -->
-<div style="text-align: center; margin: 40px auto;">
-  <a href="${feedback_link}" target="_blank"
-     style="display: inline-block;
-            background-color: #004e92;
-            color: #ffffff;
-            font-size: 16px;
-            font-weight: 600;
-            padding: 14px 28px;
-            border-radius: 8px;
-            text-decoration: none;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            transition: background-color 0.3s ease;">
-    ✨ Assess This Feedback
-  </a>
-  <p style="font-size: 13px; color: #555; margin-top: 12px;">
-    Your input helps us evaluate and improve the quality of our feedback.
+  <p style="margin-top: 12px; font-size: 16px; color: #333;">
+    You will now review two types of feedback based on your recent COLREGs assessment. Each provides insights in a different style. Please read each carefully and rate its usefulness.
   </p>
 </div>
+
+<!-- Feedback A – AI-Based Personalized -->
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto 20px auto; background-color: #e8f5ff; border: 1px solid #bee3f8; padding: 28px 32px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.06);">
+  <h2 style="margin-top: 0; color: #007acc; font-size: 22px; font-weight: bold;">🔍 Feedback Style A</h2>
+  ${e://Field/overall_feedback_AI}
+  <div style="text-align: center; margin-top: 30px;">
+    <a href="${ai_feedback_link}" target="_blank"
+       style="background-color: #007acc; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600;">Click to Rate Feedback A</a>
+  </div>
+</div>
+
+<!-- Divider -->
+<div style="text-align: center; margin: 40px 0; color: #888; font-size: 14px;">— or —</div>
+
+<!-- Feedback B – Traditional Static -->
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; background-color: #fff9f2; border: 1px solid #f5d9b0; padding: 28px 32px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.06);">
+  <h2 style="margin-top: 0; color: #cc7000; font-size: 22px; font-weight: bold;">📘 Feedback Style B</h2>
+  ${e://Field/overall_feedback_traditional}
+  <div style="text-align: center; margin-top: 30px;">
+    <a href="${traditional_feedback_link}" target="_blank"
+       style="background-color: #cc7000; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600;">Click to Rate Feedback B</a>
+  </div>
+</div>
+
+<!-- Footer -->
+<p style="font-size: 13px; color: #555; text-align: center; margin-top: 40px;">
+  Your input will help us improve the quality and effectiveness of COLREGs training.
+</p>
+
 
 
 

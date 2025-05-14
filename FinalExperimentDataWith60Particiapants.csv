@@ -1,0 +1,662 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q34,Q35,Q56_1,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q89,Q90,Q91,Q92,Q93,Q94,Q75,Q76,Q77,Q78,Q79,Q80,Q82,Q83,Q84,Q85,Q86,Q87,Q96,Q95,ApproachB_Feedback,ApproachC_Feedback,ApproachA_Feedback,Create New Field or Choose From Dropdown...
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Please Enter Your Age,To which gender identity do you most identify?,What is your nationality? - Nationality,"The term ""power-driven vessel"" refers to any vessel __________.","A vessel ""restricted in her ability to maneuver"" is one which __________.","Which statement is TRUE, according to the Rules?","When two power-driven vessels are meeting head-on and there is a risk of collision, which action is required to be taken?",Which describes a head-on situation?,"Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?",You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?,"By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?",A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?,Which signal should be used to indicate that your vessel is in distress?,"Correctness for Feedback A
+
+Does the feedback accurately reflect your pre-assessment responses and highlight relevant weaknesses or knowledge gaps?","Sufficiency for Feedback A
+
+Does the feedback provide enough information to help you understand your performance and guide your future learning?","Usefulness for Feedback A
+
+Is the feedback practical and applicable to improving your future performance or learning strategies?","Clarity for Feedback A
+
+Is the feedback communicated in a clear and understandable way, without ambiguity or confusion?","Adaptiveness for Feedback A
+
+Is the feedback tailored to your specific responses and learning needs?","Motivational Impact for Feedback A
+
+Did the feedback encourage or motivate you to improve your knowledge or performance?","Correctness for Feedback B
+
+Does the feedback accurately reflect your pre-assessment responses and highlight relevant weaknesses or knowledge gaps?","Sufficiency for Feedback B
+
+Does the feedback provide enough information to help you understand your performance and guide your future learning?","Usefulness for Feedback B
+
+Is the feedback practical and applicable to improving your future performance or learning strategies?","Clarity for Feedback B
+
+Is the feedback communicated in a clear and understandable way, without ambiguity or confusion?","Adaptiveness for Feedback B
+
+Is the feedback tailored to your specific responses and learning needs?","Motivational Impact for Feedback B
+
+Did the feedback encourage or motivate you to improve your knowledge or performance?","Correctness for Feedback C
+
+Does the feedback accurately reflect your pre-assessment responses and highlight relevant weaknesses or knowledge gaps?","Sufficiency for Feedback C
+
+Does the feedback provide enough information to help you understand your performance and guide your future learning?","Usefulness for Feedback C
+
+Is the feedback practical and applicable to improving your future performance or learning strategies?","Clarity for Feedback C
+
+Is the feedback communicated in a clear and understandable way, without ambiguity or confusion?","Adaptiveness for Feedback C
+
+Is the feedback tailored to your specific responses and learning needs?","Motivational Impact for Feedback C
+
+Did the feedback encourage or motivate you to improve your knowledge or performance?","Which Feedback Was Most Beneficial for You?
+
+    Please share which type of feedback you found most helpful during your training experience. Your response will assist us in improving the maritime training program.","Additional Comments (Optional)
+
+Please share any additional feedback regarding your experience with the AI. We welcome your thoughts on its correctness, clarity, tone, and any other aspects you feel could be improved. Your detailed insights are invaluable in helping us enhance maritime training systems.",ApproachB_Feedback,ApproachC_Feedback,ApproachA_Feedback,Create New Field or Choose From Dropdown...
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID34_TEXT""}","{""ImportId"":""QID35""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID1""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID27""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID89""}","{""ImportId"":""QID90""}","{""ImportId"":""QID91""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93""}","{""ImportId"":""QID94""}","{""ImportId"":""QID75""}","{""ImportId"":""QID76""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID80""}","{""ImportId"":""QID82""}","{""ImportId"":""QID83""}","{""ImportId"":""QID84""}","{""ImportId"":""QID85""}","{""ImportId"":""QID86""}","{""ImportId"":""QID87""}","{""ImportId"":""QID96""}","{""ImportId"":""QID95_TEXT""}","{""ImportId"":""ApproachB_Feedback""}","{""ImportId"":""ApproachC_Feedback""}","{""ImportId"":""ApproachA_Feedback""}","{""ImportId"":""Create New Field or Choose From Dropdown...""}"
+30/04/2025 10:17,30/04/2025 10:19,IP Address,152.37.123.138,100,138,TRUE,30/04/2025 10:19,R_80pwCPvnktwFnlW,,,,,51.5088,-0.093,anonymous,EN,64,Male,British,with propelling machinery in use,through some exceptional circumstance is unable to maneuver as required by the rules,A vessel constrained by her draft shall keep out of the way of a vessel engaged in fishing.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Maintain course and speed and sound at least five short blasts of the whistle,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,High,High,High,High,High,High,High,High,High,High,High,High,High,High,High,High,High,High,Feedback Approach B,,,,,
+30/04/2025 16:16,30/04/2025 16:34,IP Address,212.39.178.77,100,1047,TRUE,30/04/2025 16:34,R_2nDaWdcLsbq2t8f,,,,,54.6346,-5.8253,anonymous,EN,25,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Sounding four or more short rapid blasts on the whistle,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,High,Very High,High,High,High,High,Very High,Very High,Feedback Approach C,,,,,
+30/04/2025 13:53,30/04/2025 16:43,IP Address,185.118.176.155,100,10174,TRUE,30/04/2025 16:43,R_6AEbi3PnAG6qxEU,,,,,39.9986,32.8554,anonymous,EN,27,Male,Turkish,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,A vessel constrained by her draft shall keep out of the way of a vessel engaged in fishing.,Both vessels shall stop their engines,Seeing two forward white towing lights in a vertical line on a towing vessel directly ahead,Slow your engines and let the other vessel pass ahead of you,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,High,Very High,Very High,High,High,High,High,High,High,High,High,High,High,High,High,Medium,Very High,Very High,Feedback Approach A,,,,,
+01/05/2025 16:49,01/05/2025 16:57,IP Address,129.222.135.25,100,459,TRUE,01/05/2025 16:57,R_3auczQyWlighsI1,,,,,25.7701,-80.1928,anonymous,EN,25,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,Very High,Very High,Very High,Very High,Very High,High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach A,,,,,
+02/05/2025 16:16,02/05/2025 16:34,IP Address,176.55.77.199,100,1092,TRUE,02/05/2025 16:34,R_3YnTmZwd2SFMxoR,,,,,41.0145,28.9533,anonymous,EN,35,Male,Turkish,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,High,Medium,Low,High,High,Low,Low,High,Low,Low,Low,Medium,Medium,Low,Low,High,Low,Medium,Feedback Approach B,,,,,
+02/05/2025 17:00,02/05/2025 17:10,IP Address,130.159.237.13,100,601,TRUE,02/05/2025 17:10,R_8I5UqTrE248un0e,,,,,55.867,-4.2621,anonymous,EN,70,Male,Indian,with propelling machinery onboard whether in use or not,has lost steering and is unable to maneuver,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to port and pass the other vessel on its port side,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Displaying three black balls in a vertical line,High,High,High,High,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,High,High,Medium,Medium,Feedback Approach B,,,,,
+02/05/2025 18:49,02/05/2025 19:12,IP Address,212.252.139.56,100,1387,TRUE,02/05/2025 19:12,R_4p3h2idvXVkmbcl,,,,,38.3876,27.06,anonymous,EN,52,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,A vessel constrained by her draft shall keep out of the way of a vessel engaged in fishing.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,Very Low,Very Low,Low,Medium,Low,Medium,High,High,High,Very High,High,High,Low,Very Low,Medium,High,Very High,Medium,Feedback Approach B,"Along with possible feedback on why wrong answers were chosen, information can also be provided on why they are not correct. In addition, perhaps clearer definitions of environmental conditions in the questions can increase the accuracy of the questions.",,,,
+04/05/2025 09:14,04/05/2025 09:28,IP Address,188.119.2.239,100,785,TRUE,04/05/2025 09:28,R_911eNTDOLWQMkbH,,,,,36.2862,36.2445,anonymous,EN,20,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,A vessel not under command shall avoid impeding the safe passage of a vessel constrained by her draft.,Both vessels alter course to starboard,Seeing two forward white towing lights in a vertical line on a towing vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel dredging,Turn the vessel to starboard,All of the above,Displaying three black balls in a vertical line,Very High,Very High,Very High,Very High,Very High,Very High,High,High,Very High,High,High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach B,,,,,
+04/05/2025 10:08,04/05/2025 10:17,IP Address,88.232.101.129,100,550,TRUE,04/05/2025 10:17,R_614ekAMVg9m7JCm,,,,,36.5922,36.1741,anonymous,EN,20,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,A vessel not under command shall keep out of the way of a vessel restricted in her ability to maneuver.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Sounding four or more short rapid blasts on the whistle,Very High,Very High,Very High,High,Very High,High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,High,Very High,High,High,Feedback Approach B,,,,,
+04/05/2025 10:26,04/05/2025 10:34,IP Address,176.88.113.134,100,500,TRUE,04/05/2025 10:34,R_8fVRrd447b70JIE,,,,,36.4167,35.8896,anonymous,EN,21,Male,Turkish,with propelling machinery onboard whether in use or not,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Maintain course and speed and sound at least five short blasts of the whistle,All of the above,Displaying three black balls in a vertical line,High,High,Very High,High,Very High,Very High,High,High,Very High,Very High,High,Very High,High,High,Very High,Very High,Very High,Very High,Feedback Approach C,,,,,
+04/05/2025 11:03,04/05/2025 11:10,IP Address,46.154.247.26,100,443,TRUE,04/05/2025 11:10,R_2l3mniBboZyPfzC,,,,,37.7757,29.0859,anonymous,EN,20,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,A vessel not under command shall keep out of the way of a vessel restricted in her ability to maneuver.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Maintain course and speed and sound at least five short blasts of the whistle,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,High,Very High,Medium,High,High,High,High,High,Medium,High,High,Medium,Very High,Very High,Medium,Medium,Medium,High,Feedback Approach A,,,,,
+04/05/2025 11:13,04/05/2025 11:24,IP Address,188.119.17.104,100,619,TRUE,04/05/2025 11:24,R_9IHhF9IV1MwJuGv,,,,,36.5922,36.1741,anonymous,EN,20,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Maintain course and speed and sound at least five short blasts of the whistle,do not impair the visibility or distinctive character of the prescribed lights,Displaying three black balls in a vertical line,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach C,,,,,
+04/05/2025 11:33,04/05/2025 11:40,IP Address,94.235.250.52,100,402,TRUE,04/05/2025 11:40,R_4elDUH6HFPiLRt7,,,,,37.0695,35.0907,anonymous,EN,20,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing one red light of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Displaying a large red flag,Very High,Very High,Very High,Very High,High,High,High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach B,,,,,
+30/04/2025 10:13,30/04/2025 10:13,IP Address,152.37.123.138,11,21,FALSE,07/05/2025 10:13,R_877osR3BfNxhuma,,,,,51.5088,-0.093,anonymous,EN,64,Male,British,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30/04/2025 10:14,30/04/2025 10:16,IP Address,152.37.123.138,37,155,FALSE,07/05/2025 10:17,R_8B6P444U1zePVqV,,,,,51.5088,-0.093,anonymous,EN,64,Male,British,with propelling machinery onboard whether in use or not,through some exceptional circumstance is unable to maneuver as required by the rules,A vessel constrained by her draft shall keep out of the way of a vessel engaged in fishing.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel aground,Maintain course and speed and sound at least five short blasts of the whistle,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,,,,,,,,,,,,,,,,,,,,,,,,
+30/04/2025 13:52,30/04/2025 13:52,IP Address,185.118.176.155,11,29,FALSE,07/05/2025 13:52,R_9dcbil7dtCHa1eO,,,,,39.9986,32.8554,anonymous,EN,27,Male,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30/04/2025 13:47,30/04/2025 14:02,IP Address,31.141.59.247,37,908,FALSE,07/05/2025 14:02,R_8MXHrOqi3PD9lYJ,,,,,41.0125,28.9545,anonymous,EN,25,Male,Turkish,with propelling machinery in use,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,,,,,,,,,,,,,,,,,,,,,,,,
+30/04/2025 14:57,30/04/2025 14:58,IP Address,176.55.174.179,11,67,FALSE,07/05/2025 14:58,R_970WLYjuhsIIjZX,,,,,41.0329,28.9529,anonymous,EN,33,Male,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30/04/2025 15:19,30/04/2025 15:20,IP Address,193.220.243.28,11,62,FALSE,07/05/2025 15:20,R_2vOra1jPlNC6jHb,,,,,59.9463,10.7541,anonymous,EN,21,Male,Omani,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/05/2025 12:04,08/05/2025 12:11,IP Address,188.92.250.35,100,451,TRUE,08/05/2025 12:11,R_73331hECsneoY9M,,,,,45.4722,9.1922,anonymous,EN,22,Male,British,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,Medium,High,High,Medium,Medium,High,High,High,High,High,High,High,Very High,Very High,Very High,High,High,Feedback Approach C,,,,,
+08/05/2025 12:37,08/05/2025 12:44,IP Address,5.47.104.78,100,460,TRUE,08/05/2025 12:44,R_4YXJbGrGcCS1Mvn,,,,,41.2798,36.3361,anonymous,EN,44,Male,Turkish,with propelling machinery in use,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach C,-,,,,
+08/05/2025 12:30,08/05/2025 12:47,IP Address,176.42.19.20,100,1007,TRUE,08/05/2025 12:47,R_9EH5H6P9C3cWfNu,,,,,39.9207,32.854,anonymous,EN,41,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach A,,,,,
+08/05/2025 12:41,08/05/2025 12:51,IP Address,87.53.75.6,100,596,TRUE,08/05/2025 12:51,R_5PvXgwF2hVF1euV,,,,,55.9235,11.6451,anonymous,EN,37,Male,Turkish,with propelling machinery in use,has lost steering and is unable to maneuver,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,have a lesser range of visibility than the prescribed lights,Continuously sounding the fog whistle,High,High,High,Very High,Very High,High,High,High,High,High,High,High,High,Very High,High,High,High,Very High,Feedback Approach B,,,,,
+08/05/2025 12:51,08/05/2025 12:59,IP Address,90.209.233.15,100,488,TRUE,08/05/2025 12:59,R_8cjDRtfKa6wwAUO,,,,,50.8039,-1.1326,anonymous,EN,55,Male,British,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,Low,Low,High,Low,Low,Very High,Very High,Very High,High,Very High,Medium,Very High,Very High,Medium,Very High,Very High,Medium,Feedback Approach B,I am not sure about helping motivate my learning with either option  ,,,,
+08/05/2025 13:03,08/05/2025 13:14,IP Address,5.229.173.161,100,678,TRUE,08/05/2025 13:14,R_9eMe94x4ooZKvbb,,,,,39.9786,32.8262,anonymous,EN,42,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,Very High,High,High,Very High,Very High,High,High,Medium,High,Medium,Very High,Medium,High,High,Very High,High,Very High,High,Feedback Approach C,,,,,
+08/05/2025 13:34,08/05/2025 13:52,IP Address,79.123.199.61,100,1039,TRUE,08/05/2025 13:52,R_90LYStY1t8nnAPL,,,,,40.824,37.8366,anonymous,EN,33,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Maintain course and speed and sound at least five short blasts of the whistle,All of the above,Continuously sounding the fog whistle,Medium,Medium,Medium,Medium,Medium,Medium,High,High,High,High,High,High,High,High,High,High,High,Very High,Feedback Approach C,,,,,
+08/05/2025 13:45,08/05/2025 13:54,IP Address,80.187.102.92,100,516,TRUE,08/05/2025 13:54,R_8a8rK0pfaPHBCQd,,,,,50.1088,8.7647,anonymous,EN,43,Male,German,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying three black balls in a vertical line,Very High,Very High,Medium,Very High,Very High,Very High,Very Low,Medium,Medium,Medium,Medium,Medium,Very High,Very High,Medium,Very High,Medium,Medium,Feedback Approach A,,,,,
+08/05/2025 15:15,08/05/2025 15:27,IP Address,80.247.136.69,100,731,TRUE,08/05/2025 15:27,R_5zUXTZRrnuTgAgO,,,,,40.7126,-74.0066,anonymous,EN,33,Male,Latvian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,Very High,Very High,High,High,High,High,Medium,High,Medium,Medium,High,Medium,Medium,Medium,Medium,High,Feedback Approach B,Short and simple feedback is most appropriate. Including original source of rule or guideline.  ,,,,
+08/05/2025 16:31,08/05/2025 16:41,IP Address,148.252.129.146,100,573,TRUE,08/05/2025 16:41,R_8HxFUiJ5gpK9WYF,,,,,51.4964,-0.1224,anonymous,EN,64,Male,American,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,High,High,High,High,High,Medium,Medium,Medium,Medium,Medium,Medium,High,High,High,High,High,High,Feedback Approach B,,,,,
+08/05/2025 16:12,08/05/2025 16:47,IP Address,114.5.221.98,100,2089,TRUE,08/05/2025 16:47,R_43DXGsJhrLPVxMT,,,,,-7.254,112.7265,anonymous,EN,31,Male,Indonesian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,Medium,Very Low,High,Low,Medium,Medium,Medium,Low,Medium,Low,Medium,Low,Medium,Very High,High,Very High,High,Medium,Feedback Approach C,,,,,
+08/05/2025 12:39,08/05/2025 16:52,IP Address,88.234.238.253,100,15165,TRUE,08/05/2025 16:52,R_22asDwVYMR4vwI9,,,,,41.0145,28.9533,anonymous,EN,43,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing two forward white towing lights in a vertical line on a towing vessel directly ahead,Slow your engines and let the other vessel pass ahead of you,A vessel constrained by her draft,Maintain course and speed and sound at least five short blasts of the whistle,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,High,Very High,High,High,High,High,High,Medium,High,High,High,High,High,High,Very High,High,High,Feedback Approach A,,,,,
+08/05/2025 16:42,08/05/2025 16:59,IP Address,37.248.246.92,100,1036,TRUE,08/05/2025 16:59,R_3sJjZ5ssmpobbAB,,,,,52.2265,21.0097,anonymous,EN,32,Male,Indonesian,with propelling machinery in use,through some exceptional circumstance is unable to maneuver as required by the rules,A vessel not under command shall avoid impeding the safe passage of a vessel constrained by her draft.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Sounding four or more short rapid blasts on the whistle,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Low,Medium,Medium,Medium,Medium,Medium,Feedback Approach C,,,,,
+08/05/2025 16:59,08/05/2025 17:31,IP Address,37.248.248.113,100,1907,TRUE,08/05/2025 17:31,R_63j1njyNRKFz8qT,,,,,52.2265,21.0097,anonymous,EN,32,Male,Indonesian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,Medium,High,Medium,Medium,High,High,High,High,High,High,High,High,High,Medium,High,High,Feedback Approach A,,,,,
+08/05/2025 17:15,08/05/2025 17:33,IP Address,81.56.107.6,100,1074,TRUE,08/05/2025 17:33,R_2MZiWLdSIX7O0CR,,,,,45.0729,7.689,anonymous,EN,49,Male,Italian,with propelling machinery onboard whether in use or not,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,Medium,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,High,Feedback Approach C,,,,,
+08/05/2025 17:07,08/05/2025 17:35,IP Address,188.92.250.119,100,1662,TRUE,08/05/2025 17:35,R_1ITRwEwfGZuqdRn,,,,,45.4722,9.1922,anonymous,EN,30,Male,Croatian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Medium,Low,Low,Low,Medium,Medium,Medium,Low,Low,Medium,Low,Medium,Medium,Low,Medium,Low,Medium,Medium,Feedback Approach C,,,,,
+01/05/2025 17:34,01/05/2025 17:35,IP Address,80.255.51.129,11,62,FALSE,08/05/2025 17:35,R_2st3tVOJykxTOwS,,,,,51.4964,-0.1224,anonymous,EN,25,Male,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/05/2025 18:03,08/05/2025 18:09,IP Address,81.56.107.6,100,397,TRUE,08/05/2025 18:09,R_8asHEp9zKTqBuDB,,,,,45.0729,7.689,anonymous,EN,49,Male,Italian,with propelling machinery in use,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Low,Low,Low,Medium,Low,Medium,Medium,Medium,Medium,Medium,Medium,High,High,High,High,High,High,Very High,Feedback Approach C,,,,,
+08/05/2025 18:11,08/05/2025 18:22,IP Address,188.92.250.119,100,681,TRUE,08/05/2025 18:22,R_3FZ4AsCC6gresi5,,,,,45.4722,9.1922,anonymous,EN,27,Male,Italian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,Medium,High,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,High,High,High,Medium,Medium,Feedback Approach C,,,,,
+01/05/2025 20:03,01/05/2025 20:03,IP Address,88.226.47.138,3,23,FALSE,08/05/2025 20:03,R_6oX2CQZVksOs35f,,,,,36.5922,36.1741,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/05/2025 20:22,08/05/2025 20:29,IP Address,178.247.175.175,100,425,TRUE,08/05/2025 20:29,R_9KaDW5YNsGLjsLD,,,,,38.4957,27.1261,anonymous,EN,33,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,High,High,High,Medium,Medium,Medium,High,High,High,Medium,High,High,Medium,Medium,Medium,Medium,Medium,Medium,Feedback Approach A,,,,,
+08/05/2025 20:47,08/05/2025 20:56,IP Address,149.140.172.145,100,553,TRUE,08/05/2025 20:56,R_5MgfjUqnVDC5mcV,,,,,41.0214,28.9948,anonymous,EN,36,Female,Turkish,with propelling machinery in use,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing two forward white towing lights in a vertical line on a towing vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to port,All of the above,Displaying a large red flag,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach B,,,,,
+08/05/2025 20:40,08/05/2025 20:58,IP Address,188.3.232.39,100,1082,TRUE,08/05/2025 20:58,R_9Ylcc8b9DaqyrMQ,,,,,41.0214,28.9948,anonymous,EN,31,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,High,Very High,High,Very High,High,High,High,High,Very High,High,High,Very High,High,High,Very High,High,High,Feedback Approach B,,,,,
+08/05/2025 20:54,08/05/2025 21:06,IP Address,176.89.142.56,100,739,TRUE,08/05/2025 21:06,R_9rf7UAEPZpspfMy,,,,,41.0329,28.9529,anonymous,EN,48,Male,Turkish,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,Medium,Medium,Low,Low,Low,Very Low,Very High,Very High,Very High,Very High,Very High,Very High,High,High,High,High,High,Very High,Feedback Approach C,i like that. Clearly identify my knowledge gap at Feedback approach C,,,,
+08/05/2025 20:59,08/05/2025 21:23,IP Address,78.190.134.155,100,1458,TRUE,08/05/2025 21:23,R_9e4sqeWBkBNTj6a,,,,,40.7992,29.4305,anonymous,EN,56,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,A vessel not under command shall avoid impeding the safe passage of a vessel constrained by her draft.,Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Slow your engines and let the other vessel pass ahead of you,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,High,High,High,High,High,Medium,High,High,High,High,High,High,High,High,High,High,High,Feedback Approach C,,,,,
+08/05/2025 22:06,08/05/2025 22:16,IP Address,176.107.24.83,100,555,TRUE,08/05/2025 22:16,R_2AK3Xvms4dOlVMR,,,,,48.8703,18.6388,anonymous,EN,63,Male,Italian,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,High,High,High,High,High,High,High,High,High,High,High,High,Medium,High,High,High,High,Very High,Feedback Approach B,"Motivating and adaptive system, I am comfortable with it and I am confident will be much more accepted than the current one in use by us all.",,,,
+08/05/2025 22:22,08/05/2025 22:35,IP Address,151.124.250.200,100,798,TRUE,08/05/2025 22:35,R_3lAMaOMPh90D65H,,,,,37.751,-97.822,anonymous,EN,50,Male,British,making way against the current,has lost steering and is unable to maneuver,A vessel not under command shall avoid impeding the safe passage of a vessel constrained by her draft.,Back down,Seeing both sidelights of a vessel directly off your starboard beam,Alter course to port and pass the other vessel on its port side,A vessel moored over a wreck,Maintain course and speed and sound at least five short blasts of the whistle,do not impair the visibility or distinctive character of the prescribed lights,Displaying three black balls in a vertical line,High,High,High,High,High,High,Medium,Medium,Low,Very Low,Low,Low,High,High,High,High,High,High,Feedback Approach C,,,,,
+09/05/2025 01:29,09/05/2025 01:48,IP Address,80.247.136.69,100,1105,TRUE,09/05/2025 01:48,R_1JedNYbzsCibf8c,,,,,40.7126,-74.0066,anonymous,EN,39,Male,Romanian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,Very High,High,High,High,Very High,Medium,High,High,Very High,Medium,High,Very High,Very High,Very High,Very High,High,Very High,Feedback Approach C,,,,,
+02/05/2025 05:26,02/05/2025 05:26,IP Address,190.80.245.139,11,21,FALSE,09/05/2025 05:26,R_3psb90c6YRT5Vux,,,,,18.4615,-69.8965,anonymous,EN,34,Male,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09/05/2025 05:57,09/05/2025 06:11,IP Address,176.216.31.183,100,837,TRUE,09/05/2025 06:11,R_5XhbsheNIpzqJVr,,,,,41.0329,28.9529,anonymous,EN,46,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Feedback Approach A,,,,,
+09/05/2025 08:16,09/05/2025 08:27,IP Address,151.124.107.203,100,688,TRUE,09/05/2025 08:27,R_2qpCch9VMITB2ik,,,,,51.5177,-0.6215,anonymous,EN,45,Male,Italian,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,Medium,Low,Medium,Medium,Very Low,Very Low,Medium,Low,Medium,Medium,Medium,High,Medium,Medium,High,Medium,Low,Feedback Approach A,,,,,
+09/05/2025 08:19,09/05/2025 08:27,IP Address,151.124.107.206,100,530,TRUE,09/05/2025 08:27,R_2PbwFhw0iwaa7uR,,,,,51.5177,-0.6215,anonymous,EN,42,Male,German,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,High,High,High,High,High,Medium,Low,Low,High,Low,Low,Medium,Medium,Medium,Medium,Medium,Medium,Feedback Approach C,,,,,
+09/05/2025 08:12,09/05/2025 08:28,IP Address,79.123.199.61,100,956,TRUE,09/05/2025 08:28,R_5SqjP9vJHAyGhvX,,,,,40.824,37.8366,anonymous,EN,35,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel aground,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,Low,Low,Low,Low,Low,Low,Very High,Very High,Very High,High,Very High,Very High,High,High,High,High,High,High,Feedback Approach B,,,,,
+09/05/2025 08:27,09/05/2025 08:40,IP Address,151.124.110.201,100,773,TRUE,09/05/2025 08:40,R_4YbKr8lAOmpIQE5,,,,,37.751,-97.822,anonymous,EN,54,Male,Italian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel moored over a wreck,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,High,High,High,High,Medium,High,High,High,High,High,High,High,High,High,High,High,Feedback Approach B,,,,,
+09/05/2025 08:39,09/05/2025 08:49,IP Address,151.124.108.207,100,617,TRUE,09/05/2025 08:49,R_21hc2iYNY96zEiI,,,,,37.751,-97.822,anonymous,EN,30,Male,Italian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Low,Feedback Approach C,,,,,
+09/05/2025 08:46,09/05/2025 08:53,IP Address,151.124.108.200,100,405,TRUE,09/05/2025 08:53,R_2MQzhlLm100Iowz,,,,,37.751,-97.822,anonymous,EN,37,Male,Italian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Sounding four or more short rapid blasts on the whistle,High,High,High,High,High,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Feedback Approach A,,,,,
+09/05/2025 08:39,09/05/2025 08:54,IP Address,217.142.30.171,100,870,TRUE,09/05/2025 08:54,R_8HUN88vbCLo34Et,,,,,25.2925,51.5321,anonymous,EN,49,Male,Turkish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Low,Low,Low,Medium,Low,Medium,High,High,High,High,High,High,Medium,Medium,Medium,High,Medium,Low,Feedback Approach B,,,,,
+09/05/2025 08:43,09/05/2025 09:00,IP Address,93.136.96.22,100,1024,TRUE,09/05/2025 09:00,R_8VeVyegljTDEdWW,,,,,45.3253,14.4409,anonymous,EN,60,Male,Croatian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,High,High,High,High,High,High,High,High,High,High,High,High,High,High,High,Very High,High,Very High,Feedback Approach A,,,,,
+09/05/2025 08:52,09/05/2025 09:03,IP Address,151.124.108.203,100,661,TRUE,09/05/2025 09:03,R_3kFnVOnTJWQ9KLC,,,,,37.751,-97.822,anonymous,EN,47,Male,Italian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,High,Medium,Medium,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,High,Feedback Approach A,,,,,
+09/05/2025 09:00,09/05/2025 09:27,IP Address,80.247.136.69,100,1580,TRUE,09/05/2025 09:27,R_3riv3GhYWoHo7PA,,,,,40.7126,-74.0066,anonymous,EN,29,Male,French,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,High,High,High,High,Medium,Medium,Medium,Medium,Medium,Medium,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach B,,,,,
+09/05/2025 09:20,09/05/2025 09:32,IP Address,209.198.133.18,100,725,TRUE,09/05/2025 09:32,R_1YFhbS51ULblKOl,,,,,45.4722,9.1922,anonymous,EN,25,Male,Italian,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,Medium,Medium,Medium,High,Medium,Low,Medium,Medium,Low,High,High,Low,High,High,High,High,High,High,Feedback Approach C,,,,,
+09/05/2025 09:29,09/05/2025 09:36,IP Address,84.53.84.156,100,412,TRUE,09/05/2025 09:36,R_1zaQk5A30pVsVrj,,,,,52.0215,5.1638,anonymous,EN,57,Male,Dutch,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Displaying a large red flag,Medium,Medium,Medium,Medium,Medium,High,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Low,Low,Low,Low,Low,Low,Feedback Approach A,,,,,
+09/05/2025 10:03,09/05/2025 10:09,IP Address,151.124.108.207,100,364,TRUE,09/05/2025 10:09,R_8oz15LVNMITxEhK,,,,,37.751,-97.822,anonymous,EN,29,Male,German,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Very Low,Feedback Approach B,,,,,
+02/05/2025 11:35,02/05/2025 11:38,IP Address,193.140.168.109,11,193,FALSE,09/05/2025 11:38,R_97s22edkOm4wshh,,,,,40.9881,39.7508,anonymous,EN,53,Male,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02/05/2025 11:50,02/05/2025 11:51,IP Address,161.9.199.61,11,82,FALSE,09/05/2025 11:51,R_4NS3iwR7weQegEh,,,,,41.0145,28.9533,anonymous,EN,37,Male,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02/05/2025 12:00,02/05/2025 12:02,IP Address,160.75.243.90,11,73,FALSE,09/05/2025 12:02,R_4TnJKkDT0jwSRKF,,,,,41.0145,28.9533,anonymous,EN,35,Female,Turkish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02/05/2025 13:21,02/05/2025 13:22,IP Address,178.240.112.9,11,36,FALSE,09/05/2025 13:22,R_9N4DJzhhwWr8gUh,,,,,39.9207,32.854,anonymous,EN,55,Male,Australian,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/05/2025 12:56,09/05/2025 13:43,IP Address,80.247.136.69,100,89208,TRUE,09/05/2025 13:43,R_1NNxqFPKV9KztSx,,,,,40.7126,-74.0066,anonymous,EN,31,Male,British,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel aground,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,High,High,Medium,Medium,High,High,High,High,Medium,Medium,High,High,High,High,High,Medium,Feedback Approach C,,,,,
+09/05/2025 09:58,09/05/2025 13:58,IP Address,80.247.136.69,100,14380,TRUE,09/05/2025 13:58,R_5Tlapxpq2V50ZZD,,,,,40.7126,-74.0066,anonymous,EN,26,Female,British,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,High,Very High,Medium,Medium,Medium,Low,Medium,Low,Medium,Low,Medium,Medium,Low,Low,Medium,Low,Feedback Approach A,,,,,
+09/05/2025 13:59,09/05/2025 14:08,IP Address,65.181.9.104,100,592,TRUE,09/05/2025 14:08,R_9GT7xzxwHYGuHlL,,,,,14.5971,120.9798,anonymous,EN,54,Male,Irish,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Continuously sounding the fog whistle,High,High,Medium,Very High,Medium,Medium,Medium,High,High,Very High,Medium,Medium,High,Very High,High,High,Very High,Medium,Feedback Approach C,,,,,
+09/05/2025 14:22,09/05/2025 14:34,IP Address,151.124.108.207,100,718,TRUE,09/05/2025 14:34,R_2C0h0XT6bD06zuh,,,,,37.751,-97.822,anonymous,EN,25,Male,Belizean,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Displaying three black balls in a vertical line,High,High,Medium,Medium,Medium,High,Very Low,Very Low,Very Low,Low,Very Low,Medium,Very Low,Very Low,Very Low,High,Very Low,Low,Feedback Approach A,nil,,,,
+09/05/2025 15:19,09/05/2025 16:09,IP Address,80.247.136.69,100,2975,TRUE,09/05/2025 16:09,R_7IX0TEdQ4qa14b0,,,,,40.7126,-74.0066,anonymous,EN,36,Male,Croatian,with propelling machinery onboard whether in use or not,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Alter course to starboard to pass around the other vessel's stern,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,High,Medium,High,High,High,High,High,High,High,High,Feedback Approach B,,,,,
+09/05/2025 09:20,09/05/2025 16:09,IP Address,151.124.108.206,100,24506,TRUE,09/05/2025 16:09,R_8XHaPN37sFHwTf3,,,,,37.751,-97.822,anonymous,EN,35,Male,German,with propelling machinery in use,from the nature of her work is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Reduce your speed to the minimum at which it can be kept on course,A vessel constrained by her draft,Turn the vessel to starboard,do not impair the visibility or distinctive character of the prescribed lights,Continuously sounding the fog whistle,Very High,Very High,Very High,Very High,Very High,Very High,Medium,Very Low,Very Low,Medium,Very Low,Very Low,Very High,Very High,Very High,Very High,Very High,Very High,Feedback Approach A,"if all answers correct, short feedback more than enough.
+if some answers wrong, feedback about wrong answered topics with corrected explanation, other generic feedback is not useful and of no benefit.",,,,
+08/05/2025 14:06,09/05/2025 16:20,IP Address,209.198.133.18,100,94466,TRUE,09/05/2025 16:20,R_5ZdcJbvzqqTL0Ax,,,,,45.4722,9.1922,anonymous,EN,33,Female,Romanian,with propelling machinery onboard whether in use or not,through some exceptional circumstance is unable to maneuver as required by the rules,"A vessel engaged in fishing while underway shall, so far as possible, keep out of the way of a vessel restricted in her ability to maneuver.",Both vessels alter course to starboard,Seeing both sidelights of a vessel directly ahead,Slow your engines and let the other vessel pass ahead of you,A vessel constrained by her draft,Turn the vessel to starboard,All of the above,Sounding four or more short rapid blasts on the whistle,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Feedback Approach A,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?
+Feedback: ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?
+Feedback: ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?
+Feedback: ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which describes a head-on situation?
+Feedback: ""C"" is correct — seeing both sidelights of another vessel means you're on a direct collision course (head-on).
+
+Question: You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?
+Feedback: ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?
+Feedback: ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Which statement is TRUE, according to the Rules?
+Feedback: ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Which statement is TRUE, according to the Rules?
+Feedback: ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?
+Feedback: ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?
+Feedback: ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?
+Feedback: ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?
+Feedback: ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which statement is TRUE, according to the Rules?
+Feedback: ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: When two power-driven vessels are meeting head-on and there is a risk of collision, which action is required to be taken?
+Feedback: ""C"" is correct — in a head-on situation between two power-driven vessels, both must alter course to starboard to avoid collision.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: Which statement is TRUE, according to the Rules?
+Feedback: ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Which describes a head-on situation?
+Feedback: ""C"" is correct — seeing both sidelights of another vessel means you're on a direct collision course (head-on).
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: The term ""power-driven vessel"" refers to any vessel __________.
+Feedback: ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.
+
+Question: You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?
+Feedback: ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Question: A vessel ""restricted in her ability to maneuver"" is one which __________.
+Feedback: ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.
+
+Question: Which statement is TRUE, according to the Rules?
+Feedback: ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.
+
+Question: When two power-driven vessels are meeting head-on and there is a risk of collision, which action is required to be taken?
+Feedback: ""C"" is correct — in a head-on situation between two power-driven vessels, both must alter course to starboard to avoid collision.
+
+Question: Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?
+Feedback: ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.
+
+Question: You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?
+Feedback: ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.
+
+Question: By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?
+Feedback: ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.
+
+Question: A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?
+Feedback: ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.
+
+Question: Which signal should be used to indicate that your vessel is in distress?
+Feedback: ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> Which statement is TRUE, according to the Rules?<br><br><strong>Feedback:</strong> ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?<br><br><strong>Feedback:</strong> ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> Which statement is TRUE, according to the Rules?<br><br><strong>Feedback:</strong> ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?<br><br><strong>Feedback:</strong> ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?<br><br><strong>Feedback:</strong> ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?<br><br><strong>Feedback:</strong> ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> The term ""power-driven vessel"" refers to any vessel __________.<br><br><strong>Feedback:</strong> ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> Which describes a head-on situation?<br><br><strong>Feedback:</strong> ""C"" is correct — seeing both sidelights of another vessel means you're on a direct collision course (head-on).<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?<br><br><strong>Feedback:</strong> ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?<br><br><strong>Feedback:</strong> ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> The term ""power-driven vessel"" refers to any vessel __________.<br><br><strong>Feedback:</strong> ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> Which statement is TRUE, according to the Rules?<br><br><strong>Feedback:</strong> ""A"" is correct — fishing vessels must, as far as possible, stay out of the way of vessels with restricted ability to manoeuvre.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> When two power-driven vessels are meeting head-on and there is a risk of collision, which action is required to be taken?<br><br><strong>Feedback:</strong> ""C"" is correct — in a head-on situation between two power-driven vessels, both must alter course to starboard to avoid collision.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> Which describes a head-on situation?<br><br><strong>Feedback:</strong> ""C"" is correct — seeing both sidelights of another vessel means you're on a direct collision course (head-on).<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?<br><br><strong>Feedback:</strong> ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> You have sighted three red lights in a vertical line on another vessel dead ahead at night. Which vessel would display these lights?<br><br><strong>Feedback:</strong> ""D"" is correct — three vertical lights in red-white-red indicate a vessel constrained by her draft.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> By radar alone, you detect a vessel ahead on a collision course, about 3 miles distant. Your radar plot shows this to be a meeting situation. Which action should you take?<br><br><strong>Feedback:</strong> ""A"" is correct — in a meeting situation, both vessels should turn to starboard to pass safely port-to-port.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> Which signal should be used to indicate that your vessel is in distress?<br><br><strong>Feedback:</strong> ""D"" is correct — continuous fog whistle blasts indicate a vessel in distress in restricted visibility.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> Your vessel is underway in reduced visibility. You hear the fog signal of another vessel about 30° on your starboard bow. If danger of collision exists, which action(s) are you required to take?<br><br><strong>Feedback:</strong> ""A"" is correct — reducing speed to the minimum required to maintain course allows time to assess and react safely in limited visibility.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> The term ""power-driven vessel"" refers to any vessel __________.<br><br><strong>Feedback:</strong> ""C"" is correct — a vessel is only considered ""power-driven"" when its propelling machinery is actively in use, not just onboard.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'><strong>Question:</strong> A vessel ""restricted in her ability to maneuver"" is one which __________.<br><br><strong>Feedback:</strong> ""A"" is correct — a vessel is restricted in her ability to manoeuvre when this is due to the nature of her work, such as dredging, towing, or underwater operations.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"<strong>Question:</strong> A vessel may exhibit lights other than those prescribed by the Rules as long as the additional lights meet which requirement(s)?<br><br><strong>Feedback:</strong> ""A"" is correct — additional lights may be shown if they do not impair the visibility or character of prescribed ones.<br><br><hr style='border-top: 1px solid #ddd; margin: 20px 0;'>",
