@@ -3,8 +3,6 @@ import time
 import openai
 from itertools import product
 
-# === Set your OpenAI API key ===
-openai.api_key = "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"
 
 # === Question text and correct answers (Q1–Q9) ===
 question_texts = {
